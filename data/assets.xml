@@ -13,5 +13,6 @@
         <field name="key">website_gera.primary_variables_scss</field>
         <field name="name">Primary variables SCSS</field>
         <field name="bundle">web._assets_primary_variables</field>
+        <field name="path">website_gera/static/src/scss/primary_variables.scss</field>
     </record>
 </odoo>
