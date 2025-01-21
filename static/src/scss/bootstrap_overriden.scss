@@ -1,7 +1,3 @@
-// Override Bootstrap default variables
-$primary: #3498db; // Change primary color
-$font-family-sans-serif: 'Roboto', sans-serif; // Change default font family
-$border-radius: 0.25rem; // Adjust border radius
+// Cards
 
-// Import Bootstrap
-@import "bootstrap";
+$card-border-width: 0 !default;
