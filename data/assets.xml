@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <record id="theme_test_custo_bootstrap_overridden_scss" model="theme.ir.asset">
+    <record id="website_gera.bootstrap_overridden_scss" model="theme.ir.asset">
         <field name="name">Bootstrap overridden SCSS</field>
         <field name="path">website_gera/static/src/scss/primary_variables.scss</field>
         <field name="key">website_gera.bootstrap_overridden_scss</field>
@@ -9,7 +9,7 @@
         <field name="path">website_gera/static/src/scss/bootstrap_overridden.scss</field>
     </record>
 
-    <record id="theme_test_custo_primary_variables_scss" model="theme.ir.asset">
+    <record id="website_gera.primary_variables_scss" model="theme.ir.asset">
         <field name="key">website_gera.primary_variables_scss</field>
         <field name="name">Primary variables SCSS</field>
         <field name="bundle">web._assets_primary_variables</field>
