@@ -2,7 +2,7 @@
    'name': 'Airproof Theme',
    'description': '...',
    'category': 'Website/Theme',
-   'version': '1.3.0',
+   'version': '1.6.0',
    'author': '...',
    'license': '',
    'depends': ['website'],
