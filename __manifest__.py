@@ -7,7 +7,7 @@
    'license': '',
    'depends': ['website'],
    'data': [
-      # ...
+      'data/assets.xml'
    ],
    'assets': {
    'web._assets_primary_variables': [
